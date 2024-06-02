@@ -41,7 +41,7 @@ The repository is organized into the following sections:
 16. **[Throws](https://github.com/iam-baivab/Java/tree/master/Throws)**
     - Usage of the `throws` keyword in method signatures.
 
-## E-Books 📚
+## [E-Books](https://github.com/iam-baivab/Java/tree/main/E-Book) 📚
 
 This repository also references several e-books to aid in learning Java:
 
