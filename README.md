@@ -1,4 +1,6 @@
 # Java Programming <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="45" height="45" />
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 Welcome to the Java Programming Repository! This repository contains a comprehensive collection of Java code examples and exercises that cover a wide range of fundamental and advanced Java topics.
 
@@ -98,3 +100,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 If you have any questions or suggestions, feel free to open an issue or contact the repository owner.
 
 Happy Coding!
+
+[license-shield]: https://img.shields.io/badge/License-MIT-red.svg
+[license-url]: https://github.com/iam-baivab/News-Scraping-using-BeautyfulSoup-Selenium-with-Django/blob/main/LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=blue
+[linkedin-url]: https://www.linkedin.com/in/baivabsarkar/
