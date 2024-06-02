@@ -1,10 +1,8 @@
-# Java Programming
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+# Java Programming <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" alt="Teacup Without Handle" width="45" height="45" />
 
 Welcome to the Java Programming Repository! This repository contains a comprehensive collection of Java code examples and exercises that cover a wide range of fundamental and advanced Java topics.
 
-## Repository Contents
+## Repository Contents 📂
 
 The repository is organized into the following sections:
 
@@ -41,7 +39,34 @@ The repository is organized into the following sections:
 16. **[Throws](https://github.com/iam-baivab/Java/tree/master/Throws)**
     - Usage of the `throws` keyword in method signatures.
 
-## How to Use This Repository
+## E-Books 📚
+
+This repository also references several e-books to aid in learning Java:
+
+1. **[Java Message Service](https://github.com/iam-baivab/Java/blob/main/E-Book/(O'Reilly%20Java%20Series)%20Richard%20Monson-Haefel%2C%20David%20Chappell%20-%20Java%20Message%20Service-O'Reilly%20(2001)%20-%20Library%20JISCE.pdf)** 📖
+   - (O'Reilly Java Series) Richard Monson-Haefel, David Chappell - O'Reilly (2001)
+2. **[Java Programming. Part 1](https://github.com/iam-baivab/Java/blob/main/E-Book/Various%20-%20Java%20Programming.%20Part%201%20(1998)%20-%20Library%20JISCE.pdf)** 📖
+   - Various Authors (1998)
+3. **[Java 2: The Complete Reference](https://github.com/iam-baivab/Java/blob/main/E-Book/Patrick%20Naughton%2C%20Herbert%20Schildt%20-%20Java%202_%20The%20complete%20reference-Osborne%20Publishing%20(1999)%20-%20Library%20JISCE.pdf)** 📖
+   - Patrick Naughton, Herbert Schildt - Osborne Publishing (1999)
+4. **[Java Programming -- Introductory](https://github.com/iam-baivab/Java/blob/main/E-Book/Joyce%20Farrell%20-%20Java%20Programming%20--%20Introductory-Course%20Technology%20(1998)%20-%20Library%20JISCE.pdf)** 📖
+   - Joyce Farrell - Course Technology (1998)
+5. **[Learning Java](https://github.com/iam-baivab/Java/blob/main/E-Book/(The%20Java%20series)%20Jonathan%20Knudsen%2C%20Patrick%20Niemeyer%20-%20Learning%20Java-O'Reilly%20(2000)%20-%20Library%20JISCE.pdf)** 📖
+   - (The Java Series) Jonathan Knudsen, Patrick Niemeyer - O'Reilly (2000)
+6. **[Java Cookbook](https://github.com/iam-baivab/Java/blob/main/E-Book/Ian%20F.%20Darwin%20-%20Java%20Cookbook-O'Reilly%20(2001)%20-%20Library%20JISCE.pdf)** 📖
+   - Ian F. Darwin - O'Reilly (2001)
+7. **[Java Network Programming and Distributed Computing](https://github.com/iam-baivab/Java/blob/main/E-Book/David%20Reilly%2C%20Michael%20Reilly%20-%20Java%20Network%20Programming%20and%20Distributed%20Computing-Addison-Wesley%20Professional%20(2002)%20-%20Library%20JISCE.pdf)** 📖
+   - David Reilly, Michael Reilly - Addison-Wesley Professional (2002)
+8. **[Java Web Services](https://github.com/iam-baivab/Java/blob/main/E-Book/David%20A.%20Chappell%2C%20Tyler%20Jewell%20-%20Java%20Web%20Services-O'Reilly%20(2002)%20-%20Library%20JISCE.pdf)** 📖
+   - David A. Chappell, Tyler Jewell - O'Reilly (2002)
+9. **[Thinking in Java](https://github.com/iam-baivab/Java/blob/main/E-Book/Bruce%20Eckel%20-%20Thinking%20in%20Java-Prentice%20Hall%20(1998)%20-%20Library%20JISCE.pdf)** 📖
+   - Bruce Eckel - Prentice Hall (1998)
+10. **[Java Coding Interview Solution](https://github.com/iam-baivab/Java/blob/main/E-Book/JavaCodingInterviewSolutionbyMr.Kotiyana-1%20-%20HR%20JISCE.pdf)** 📖
+    - by Mr. Kotiyana
+11. **[Java Programming: A Comprehensive Introduction](https://github.com/iam-baivab/Java/blob/main/E-Book/Java%20Programming%20A%20Comprehensive%20Introduction%20by%20Herbert%20Schildt%20Dale%20Skrien%20(z-lib.org)%20-%20Copy%20(2).pdf)** 📖
+    - Herbert Schildt, Dale Skrien
+
+## How to Use This Repository 🚀
 
 1. **Clone the Repository**
     ```
@@ -60,22 +85,16 @@ The repository is organized into the following sections:
     java FileName
     ```
 
-## Contributing
+## Contributing 🤝
 
 Contributions are welcome! If you have any improvements or additional examples, feel free to fork the repository and create a pull request. Please ensure your code follows best practices and includes comments for clarity.
 
-## License
+## License 📜
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
+## Contact 📬
 
 If you have any questions or suggestions, feel free to open an issue or contact the repository owner.
 
 Happy Coding!
-
-
-[license-shield]: https://img.shields.io/badge/License-MIT-red.svg
-[license-url]: https://github.com/iam-baivab/News-Scraping-using-BeautyfulSoup-Selenium-with-Django/blob/main/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=blue
-[linkedin-url]: https://www.linkedin.com/in/baivabsarkar/
